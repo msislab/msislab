@@ -1,3 +1,3 @@
 # msislab
 
-Looo & script
+Logo & script
